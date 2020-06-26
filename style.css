@@ -1,0 +1,19 @@
+.t{
+    background-color: aquamarine;
+    justify-content: center;
+    display: flex;
+   
+    
+    
+}
+.image{
+    background-color: pink;
+    flex-wrap: wrap-reverse;
+display: flex;
+
+}
+.text{
+    background-color: rgb(235, 141, 156);
+display: flex;
+
+}
